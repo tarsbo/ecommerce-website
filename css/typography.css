@@ -65,7 +65,7 @@ small, .milli {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: Helvetica,sans-serif;
-	color: #393;
+	color: #20B2AA;
 }
 
 .brand-family {
@@ -73,11 +73,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .brand-color {
-	color: #393;
+	color: #20B2AA;
 }
 
 ::selection {
-	background-color: #393;
+	background-color: #20B2AA;
 	color: #fff;
 }
 
@@ -115,3 +115,10 @@ ul li:before {
 	position: absolute;
 	left: -1.2em;
 }
+
+
+
+
+
+
+
