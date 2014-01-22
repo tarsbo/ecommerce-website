@@ -116,8 +116,12 @@ ul li:before {
 	left: -1.2em;
 }
 
-caption, th {
-	color:#79D1CC;
+th {
+	color: #3D2900;
+}
+
+mark {
+	background-color: #AFE3E0;
 }
 
 
