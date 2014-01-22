@@ -4,7 +4,7 @@
   - Dark red: #600 - rgb(100, 0, 0)
  */
 html {
-  font: normal 100%/1.5 Georgia,serif; /* 16px/24px */
+  font: normal 100%/1.5 Arial, sans-serif; /* 16px/24px */
 }
 
 h1, h2, h3, h4, h5, h6,
