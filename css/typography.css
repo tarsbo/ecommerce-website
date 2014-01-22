@@ -116,6 +116,10 @@ ul li:before {
 	left: -1.2em;
 }
 
+caption, th {
+	color:#79D1CC;
+}
+
 
 
 
