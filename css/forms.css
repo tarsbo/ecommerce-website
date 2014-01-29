@@ -1,7 +1,7 @@
 body {
-	background: #9E959D;
+	background: #ccc;
 	color: #000;
-	font: 14px/1.5em "PT Sans", sans-serif;
+	font: 14px/1.5em Arial, sans-serif;
 	margin: 0;
 }
 fieldset {
@@ -42,7 +42,7 @@ input[type="search"]::-webkit-search-decoration {
 /* ---------- SEARCH ---------- */
 
 #search {
-	background: #42454e;
+	background: #79D1CC;
 	border-radius: 3px;
 	display: inline-block;
 	padding: 7px;
@@ -57,20 +57,20 @@ input[type="search"]::-webkit-search-decoration {
 }
 #search input[type="search"] {
 	background: #fff;
-	color: #42454e;
+	color: #20B2AA;
 	min-width: 184px;
 	padding: 6px 8px;
 }
 #search input[type="submit"] {
-	background: #1bba9a;
+	background: #20B2AA;
 	color: #fff;
 	font-weight: bold;
 	margin-left: 7px;
 	padding: 6px 10px;
 }
 #search input[type="submit"]:hover {
-	background: #189e83;
+	background: #20B2AA;
 }
-#search input[type="search"]::-webkit-input-placeholder { color: #42454e; }
-#search input[type="search"]:-moz-placeholder { color: #42454e; }
-#search input[type="search"]:-ms-input-placeholder { color: #42454e; }
+#search input[type="search"]::-webkit-input-placeholder { color: #20B2AA; }
+#search input[type="search"]:-moz-placeholder { color: #20B2AA; }
+#search input[type="search"]:-ms-input-placeholder { color: #20B2AA; }
