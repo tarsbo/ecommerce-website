@@ -87,13 +87,13 @@ h1, h2, h3, h4, h5, h6 {
 
 a,
 a:link {
-	color: #79D1CC;
+	color: #20B2AA;
 	text-decoration: none;
-	border-bottom: 0.1em solid #79D1CC;
+	border-bottom: 0.1em solid #20B2AA;
 	transition: all200ms linear;
 }
 
-a:visied {
+a:visited {
 	color: #AFE3E0;
 	border-bottom-color: #AFE3E0;
 }
