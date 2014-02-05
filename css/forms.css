@@ -36,8 +36,8 @@ input[type="search"]::-webkit-search-decoration {
 }
 .clearfix:after { clear: both; }
 .container {
-	height: 44px;
-	position: absolute;
+	/*height: 44px;*/
+	/*position: absolute;*/
 }
 /* ---------- SEARCH ---------- */
 
