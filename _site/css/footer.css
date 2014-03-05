@@ -1,0 +1,16 @@
+footer {
+	background-color: #79D1CC;
+	height: 6rem;
+	text-align: center;
+	clear: both;
+}
+
+footer p {
+	color: #fff;
+	clear:both;
+	font-size:16px;
+}
+
+footer ul {
+	padding: 0;
+}
