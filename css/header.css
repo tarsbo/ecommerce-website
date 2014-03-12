@@ -12,3 +12,14 @@
 .current {
 	background-color: #20B2AA;
 }
+
+.banner {
+  background: #20B2AA url("../images/banner.jpg") no-repeat center center;
+  background-size: cover;
+  padding: 5em 1em 1em;
+  text-align: center;
+}
+
+.banner h2 {
+  color: #20B2AA;
+}
