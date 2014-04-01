@@ -8,8 +8,8 @@ User testing was conducted by Tara Boland on April 1, 2014 between the times of 
 
 ## Tasks
 
-1. {First task description here}
-2. {Second task description here}
+1. Buy item
+2. Learn more about company
 3. {Third task description here}
 
 ---

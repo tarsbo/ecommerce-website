@@ -4,11 +4,17 @@
 	display: inline-block;
 	padding: 0.75em 1em;
 	background-color: #79D1CC;
-	background-image: linear-gradient(to bottom, #79D1CC, #79D1CC);
 	border-radius: 6px;
 	border-color: none;
 	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
 	color: #fff;
+}
+
+.btn:active,
+.btn:hover {
+	background-color: #FFF;
+	color: #79D1CC;
+
 }
 
 .btn-alt,

@@ -54,6 +54,7 @@ input[type="search"]::-webkit-search-decoration {
 #search input[type="submit"] {
 	border-radius: 3px;
 	font-size: 12px;
+	cursor: pointer;
 }
 #search input[type="search"] {
 	background: #fff;
@@ -69,8 +70,16 @@ input[type="search"]::-webkit-search-decoration {
 	padding: 6px 10px;
 }
 #search input[type="submit"]:hover {
-	background: #20B2AA;
+	background: #fff;
+	color: #20B2AA;
 }
+
+#search input[type="submit"]:active,
+#search input[type="submit"]:focus {
+	background: #fff;
+	color: #20B2AA;
+}
+
 #search input[type="search"]::-webkit-input-placeholder { color: #20B2AA; }
 #search input[type="search"]:-moz-placeholder { color: #20B2AA; }
 #search input[type="search"]:-ms-input-placeholder { color: #20B2AA; }

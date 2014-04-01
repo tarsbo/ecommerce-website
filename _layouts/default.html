@@ -38,7 +38,7 @@
           <a class="{% if page.url == '/about/' %}current{% endif %}" href="{{site.baseurl}}/makeup/">Make Up</a>
 	</div>
 		<div class="unit gutter unit-s-1 unit-m-1-4 unit-l-1-4 header-text">
-          <a class="{% if page.url == '/about/' %}current{% endif %}" href="{{site.baseurl}}/haircare/">Hair Care</a>
+          <a class="{% if page.url == '/about/' %}current{% endif %}" href="{{site.baseurl}}/cart/">Cart</a>
 	</div>
 </div>
 
@@ -48,7 +48,7 @@
 			<div class="container">
 				
 				<div id="search">
-					<form action="javascript:void(0);" method="GET">
+					<form method="get" action="{{site.baseurl}}/search/" method="GET">
 						<fieldset class="clearfix">
 							<input type="search" name="search" value="What are you looking for?" onBlur="if(this.value=='')this.value='What are you looking for?'" onFocus="if(this.value=='What are you looking for?')this.value='' "> 
 							<!-- JS because of IE support (better): placeholder="What are you looking for?" -->
