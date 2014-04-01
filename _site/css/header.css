@@ -18,8 +18,13 @@
   background-size: cover;
   padding: 5em 1em 1em;
   text-align: center;
+  margin-top: 1rem;
 }
 
 .banner h2 {
   color: #20B2AA;
+}
+
+.grid-header a {
+	font-size: 2rem;
 }

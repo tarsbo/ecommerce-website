@@ -1,11 +1,17 @@
 .grid {
 	border: 3px solid #20B2AA;
 	overflow: hidden;
-	background-color: #79D1CC;
+
 }
 
 .unit {
 	float : left;
+	padding: 1rem;
+}
+
+.grid-header {
+	background-color: #79D1CC;
+
 }
 
 .unit-s-1 {

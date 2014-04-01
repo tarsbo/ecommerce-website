@@ -1,0 +1,9 @@
+<ul>
+{% for makeup in site.pages %}
+	{% if makeup.category == include.category %}
+	<li>
+		{{makeup.title}}
+	</li>
+	{% endif %}
+{% endfor %}
+</ul>
