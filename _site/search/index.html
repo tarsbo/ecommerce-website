@@ -12,24 +12,21 @@
 	<link href="/css/typography.css" rel="stylesheet">
 	<link href="/css/list-group.css" rel="stylesheet">
 	<link href="/css/media-object.css" rel="stylesheet">
-	<link href="/css/embed.css" rel="stylesheet">
-	<link href="/css/icons.css" rel="stylesheet">
 	<link href="/css/forms.css" rel="stylesheet">
 	<link href="/css/buttons.css" rel="stylesheet">
 	<link href="/css/grid.css" rel="stylesheet">
 	<link href="/css/header.css" rel="stylesheet">
 	<link href="/css/footer.css" rel="stylesheet">
 	<link href="/css/product.css" rel="stylesheet">
-	<link href="/css/product-list-item.css" rel="stylesheet">
 	<link href="/css/promos.css" rel="stylesheet">
 </head>
 
 <body>
 
-<div class="grid grid-header">
+<div class="grid grid-header" role="navigation">
 
 	<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-		<a href="/index.html/"><img class="img-flex logo" src="http://placehold.it/640x640" alt="">
+		<a href="/"><img class="img-flex logo" src="http://placehold.it/640x640" alt=""></a>
 	</div>
 	<div class="unit gutter unit-s-1 unit-m-1-4 unit-l-1-4 header-text">
           <a class="" href="/about/">About</a>
@@ -48,7 +45,7 @@
 			<div class="container">
 				
 				<div id="search">
-					<form method="get" action="/search/" method="GET">
+					<form method="get" action="/search/" role="search">
 						<fieldset class="clearfix">
 							<input type="search" name="search" value="What are you looking for?" onBlur="if(this.value=='')this.value='What are you looking for?'" onFocus="if(this.value=='What are you looking for?')this.value='' "> 
 							<!-- JS because of IE support (better): placeholder="What are you looking for?" -->
@@ -83,17 +80,29 @@
 		
 	
 		
+		<li>
+			<a href="/makeup/foundation/alima/">
+				<strong>Alima</strong>
+			</a>
+		</li>
+		
 	
 		
 		<li>
-			<a href="">
-				<h4>Dr. Hauschka</h4>
-				<p></p>
+			<a href="/makeup/foundation/drhauschka/">
+				<strong>Dr. Hauschka</strong>
+			</a>
 		</li>
 		
 	
 		
 	
+		
+		<li>
+			<a href="/makeup/foundation/sukicolor/">
+				<strong>Suki Color</strong>
+			</a>
+		</li>
 		
 	
 		
@@ -123,14 +132,26 @@
 		
 	
 		
-	
+		<li>
+			<a href="/makeup/eyeshadow/alima/">
+				<strong>Alima</strong>
+			</a>
+		</li>
 		
 	
 		
 		<li>
-			<a href="">
-				<h4>Dr. Hauschka</h4>
-				<p></p>
+			<a href="/makeup/eyeshadow/couleurcaramel/">
+				<strong>Couleur Caramel</strong>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/makeup/eyeshadow/drhauschka/">
+				<strong>Dr. Hauschka</strong>
+			</a>
 		</li>
 		
 	
@@ -189,17 +210,29 @@
 		
 	
 		
+		<li>
+			<a href="/makeup/lipstick/couleurcaramel/">
+				<strong>Couleur Caramel</strong>
+			</a>
+		</li>
+		
 	
 		
 		<li>
-			<a href="">
-				<h4>Dr. Hauschka</h4>
-				<p></p>
+			<a href="/makeup/lipstick/drhauschka/">
+				<strong>Dr. Hauschka</strong>
+			</a>
 		</li>
 		
 	
 		
 	
+		
+		<li>
+			<a href="/makeup/lipstick/revolutionorganics/">
+				<strong>Revolution Organics</strong>
+			</a>
+		</li>
 		
 	
 		
@@ -210,7 +243,7 @@
 
 		<footer>	 				
 	
-			<p>©2014 Organic Makeup</p>
+			<p role="contentinfo">©2014 Organic Makeup</p>
 
 			<ul class="list-group">
 				<li class="list-group-item list-group-item-inline">

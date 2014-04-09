@@ -2,9 +2,9 @@
 	{% for makeup in site.pages %}
 		{% if makeup.category == include.category %}
 		<li>
-			<a href="{{site.baseurl}}{{makeyp.url}}">
-				<h4>{{makeup.title}}</h4>
-				<p>{{makeup.meta}}</p>
+			<a href="{{site.baseurl}}{{makeup.url}}">
+				<strong>{{makeup.title}}</strong>
+			</a>
 		</li>
 		{% endif %}
 	{% endfor %}

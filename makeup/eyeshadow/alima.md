@@ -4,7 +4,7 @@ title: Alima
 category: eyeshadow
 Colours: Ash, Cocoa, Lilac, Nightingale, Aubergine, Champagne
 Price: $13.00
-Ingredients: Mica (CI 77019). May contain: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Ultramarines (CI 77007)
+Ingredients: "Mica (CI 77019). May contain: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Ultramarines (CI 77007)"
 ---
 
 ## Alima Pure Eyes
