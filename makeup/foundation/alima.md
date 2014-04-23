@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: makeup
 title: Alima
 category: foundation
-Shades: Fair, Medium, Dark
+Colours: Fair, Medium, Dark
 Price: $25.00
 Ingredients: "Titanium Dioxide (CI 77891), Zinc Oxide (CI 77947) Mica (CI 77019). May contain [+/-]: Iron Oxides (CI 77491, CI 77492, CI 77499)"
 ---
-
-## Alima Pure Satin Matte Mineral Foundation
 
 <img src="{{site.baseurl}}/images/alima.jpg" alt="Alima Matte Foundation">
 

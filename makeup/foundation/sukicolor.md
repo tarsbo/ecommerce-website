@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: makeup
 title: Suki Color
 category: foundation
-Shades: Porcelain, Natural, Bronze
+Colours: Porcelain, Natural, Bronze
 Price: $50.95
 Ingredients: "purified water, organic sunflower seed oil, beeswax, organic grape seed oil, organic jojoba seed oil, hazelnut oil, borage oil, cetearyl alcohol, shea butter, standardized willow bark extract, organic food-grade non-gmo lecithin, vitamin and retinol liposomes, sodium borate, organic rose extract in food-grade ethyl alcohol, organic food-grade acacia catechu gum, organic food-grade xanthan gum, fragrance (made only from pure, steam-distilled essential oils) [may contain: titanium dioxide, iron oxides]"
 ---
-
-## Sukicolor Tinted Active Moisturizing Foundation
 
 <img src="{{site.baseurl}}/images/sukicolor.jpg" alt="Suki Color Foundation">
 
