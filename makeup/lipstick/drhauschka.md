@@ -9,4 +9,6 @@ Ingredients: uniform declaration for lipstick 01-12) ricinus communis, rosa cani
 
 ## Dr. Hauschka Lipstick
 
+<img src="{{site.baseurl}}/images/lipstick.jpg" alt="Dr. Hauschka Lipstick">
+
 Lipsticks with the nurturing qualities of our lip care products. Color glides on effortlessly, leaving your lips velvety-smooth.

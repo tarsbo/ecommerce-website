@@ -9,4 +9,6 @@ Ingredients: Water, Natural Grain Alcohol, Kidney Vetch, Carrot Root Extract, Ma
 
 ## Dr. Hauschka Translucent Makeup
 
+<img src="{{site.baseurl}}/images/dr-haus.jpg" alt="Dr. Hauschka Foundation">
+
 A gentle liquid foundation that enhances the skin's naturally radiant glow for a dewy, flawless look. Mineral pigments blend uneven pigmentation while plant extracts oils and waxes moisturize and protect.

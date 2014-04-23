@@ -9,4 +9,6 @@ Ingredients: "Mica (CI 77019). May contain: Titanium Dioxide (CI 77891), Iron Ox
 
 ## Alima Pure Eyes
 
+<img src="{{site.baseurl}}/images/alima-eyeshadow.jpg" alt="Alima Eyeshadow">
+
 Just like a little black dress, these are a style essential. Alima's Eye colours set off your grey flannel suit by day and enhance that slinky black number at night. Simply put, "you look fabulous." Stunning array of shades for all your needs.

@@ -9,4 +9,6 @@ Ingredients: "Ricinus Communis (Castor) Seed Oil*, Olea Europaea (Olive) Fruit O
 
 ## Revolution Organics Freedom Lip Gloss
 
+<img src="{{site.baseurl}}/images/lipgloss.jpg" alt="Revolution Organics Lipgloss">
+
 This healthy, good-for-you gloss is rich in vitamins and antioxidants to leave lips beautifully moisturized and gorgeously glossy. Formulated with 100% natural and 85% certified organic ingredients, the product delivers all the benefits of a lip treatment in a gorgeous gloss.

@@ -9,4 +9,6 @@ Ingredients: "Ricinus communis (castor oil), hydrogenated stearyl olive esters, 
 
 ## Couleur Caramel Lipstick
 
+<img src="{{site.baseurl}}/images/cc-lipstick.jpg" alt="Couleur Caramel Lipstick">
+
 Shiny, matte, pearly, glittery… you decide! Couleur Caramel offers a wide choice of shades and textures so you can enjoy shine, comfort and long-lasting hold.

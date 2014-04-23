@@ -9,4 +9,6 @@ Ingredients: "TALC - MICA - SQUALANE - ZINC STEARATE - ETHYL HEXYL PALMITATE - V
 
 ## Couleur Caramel Eyeshadow
 
+<img src="{{site.baseurl}}/images/couleurcaramel.jpg" alt="Couleur Caramel Eyeshadow">
+
 Enjoy playing with colours and subtle contrasts. Intensify, shape or illuminate your eyes and make them sparkle while still maintaining a natural look.

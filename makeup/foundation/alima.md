@@ -9,4 +9,6 @@ Ingredients: "Titanium Dioxide (CI 77891), Zinc Oxide (CI 77947) Mica (CI 77019)
 
 ## Alima Pure Satin Matte Mineral Foundation
 
+<img src="{{site.baseurl}}/images/alima.jpg" alt="Alima Matte Foundation">
+
 Silky, weightless and very forgiving, Alima Pure Satin Matte Foundation goes on easy and feels like nothing at all, naturally. It evens out your skin tone, enhances your complexion and reduces the appearance of fine lines and pores. And, with so many shades, there's a match for just about everyone. What’s not to love?

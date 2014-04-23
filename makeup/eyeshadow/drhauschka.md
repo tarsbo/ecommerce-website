@@ -9,4 +9,6 @@ Ingredients: Talc (Certified Asbestos-Free), Magnesium Stearate, Jojoba Seed Oil
 
 ## Dr. Hauschka Eyeshadow
 
+<img src="{{site.baseurl}}/images/drhaus-eyeshadow.jpg" alt="Dr. Hauschka Eyeshadow">
+
 Five beautiful tones enhance the natural shape and beauty of your eyes. Extracts of anthyllis and black tea nurture delicate, sensitive skin.

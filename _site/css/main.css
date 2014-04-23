@@ -303,7 +303,7 @@ input[type="search"]::-webkit-search-decoration {
 .btn:visited{
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-color: #79D1CC;
+	background-color: #20B2AA;
 	border-radius: 6px;
 	border-color: none;
 	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
@@ -313,7 +313,7 @@ input[type="search"]::-webkit-search-decoration {
 .btn:active,
 .btn:hover {
 	background-color: #FFF;
-	color: #79D1CC;
+	color: #20B2AA;
 
 }
 
@@ -324,7 +324,7 @@ input[type="search"]::-webkit-search-decoration {
 	background-image: linear-gradient(to bottom, #20B2AA, #20B2AA);
 }
 .grid {
-	border: 3px solid #20B2AA;
+	border: 3px solid #79D1CC;
 	overflow: hidden;
 
 }
@@ -335,7 +335,7 @@ input[type="search"]::-webkit-search-decoration {
 }
 
 .grid-header {
-	background-color: #20B2AA;
+	background-color: #79D1CC;
 
 }
 
